@@ -75,6 +75,22 @@
       // between multiple websites under the same domain
       namespace: 'website-1',
       }
+        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+      <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+      <div id="gitalk-container"></div>
+      <script type="text/javascript">
+          var gitalk = new Gitalk({
+          // gitalk的主要参数
+            clientID: `3e628a1858005e763263`,   //上面获取到的值
+            clientSecret: `2d45d62bd2579f5e069fc1ade0c7f80b13e810f4`,//上面获取到的值
+            repo: `gitalkData`,  //您刚才建立仓库的名字
+            owner: 'zhangleivip',   //你的GitHub用户名字
+            admin: ['zhangleivip'],  //你的GitHub用户的名字
+            id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+              });
+            gitalk.render('gitalk-container');
+      </script>
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
