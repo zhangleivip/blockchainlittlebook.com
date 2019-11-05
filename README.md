@@ -56,21 +56,27 @@ iiOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin
 
 另外，对小白来说最靠谱的投资策略是**定投策略** —— 至于具体应该如何操作，请移步[《定投改变命运》（开源第三版）](https://onregularinvesting.com)。
 
-###Mixin使用
-Mixin中文群：7000101317 入群费：0.07xin
-mixin的最大群
-Exin 中文群：7000000016 免费
-Exin的用户群
-FoxOne中文群：7000100217 免费
-Fox.One App的用户群
-定投公开课群：7000102093 免费（可领红包）
+### Mixin使用
+> *Mixin中文群：7000101317 入群费：0.07xin
+> Mixin用户群
+> *Exin 中文群：7000000016 免费
+> Exin用户群
+> *FoxOne中文群：7000100217 免费
+>  Fox.One App的用户群
+> *定投公开课群：7000102093 免费（可领红包）
 每天有大量红包可以领取，每天大概总值千元人民币左右，但由于一个红包基本分成10000份（10000人抢），所以，只能用苍蝇腿上的肉形容。
-定投践行群：7000102069
+> *定投践行群：7000102069
 需要支付2019元人民币入群费并且获取邀请码才可进入，有效期一年。现群内开设投资、编程、英语、学习等课程
 
-> Lucky BTC Bot：7000101487 每日签到获取免费BTC，第1天领取100聪，第2天领取200聪，第10天领取1000聪，第n天n00聪，中断则从100聪重新开始
+> *Lucky BTC Bot：7000101487 每日签到获取免费BTC，第1天领取100聪，第2天领取200聪，第10天领取1000聪，第n天n00聪，中断则从100聪重新开始
 
 我的mixinID：35086
 [Mixin小群 链接](https://mixin.one/codes/1484dbc5-44f4-4b39-b3e3-92f6de24cb4e)
-
-[为什么Libra有可能成为真正的支付工具](https://m.igetget.com/rush/course/index/xe3WMdD1ARZm4vrYagp6zyW2fl7SJJnMTObBRLklX5909pVjLzn8NGoEOb926yKB?from=singlemessage)
+《得到app》外链（只有40个名额，先到先得，需要在微信客户端打开～）
+[01 为什么Libra有可能成为真正的支付工具](https://m.igetget.com/rush/course/index/xe3WMdD1ARZm4vrYagp6zyW2fl7SJJnMTObBRLklX5909pVjLzn8NGoEOb926yKB?from=singlemessage)
+[02 Libra如何应对数字货币的币值稳定](https://m.igetget.com/rush/course/index/LqXmD8xyrBJMVke1aEPWVjJ5fXJF44nvCAlZqW43yVEbEQ4Ab2G0lYz3OvnNjd97)
+[03 Libra能成为强势货币吗]( https://m.igetget.com/rush/course/index/xZ5EdYj9eW0zNMlJVBPnnodrfN0IJJ2aF6EXbqGJ29VYVP4v2G1rXOAgR7Ka3Loy)
+[04 Libra能突破数字货币的通行风险吗](https://m.igetget.com/rush/course/index/1kqdK6Dbj0v8WmZoxVPyNXdgFrjiGG8NIqRZ1aLnJK3V3wBRLJ3N97Yl25eO4nAg)
+[05 DCEP:中国自己的数字货币](https://m.igetget.com/rush/course/index/4JLDzyNjZWeGYXa0v5Px80NoSLJHyyeKuaWkJ6Dxg0RLRP17rmd93lERV8kMxO6g)
+[06 DCEP的设计和发行逻辑有何创新](https://m.igetget.com/rush/course/index/0bJ9m5rBVk6q2MzXd4wln9dEfVqCOOr6h1gWr2KGOEbJbQWov1aEOj7NxGgy3ZKn)
+[结语｜互联网创业思维，不适合金融领域](https://m.igetget.com/rush/course/index/J8VKqm0b9ERnzNBaYvQYVNnDf8aHaa6ku2m7ea4ZBkqKqPx257G1ZyglX3oL6DAj)
