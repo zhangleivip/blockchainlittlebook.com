@@ -47,7 +47,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 > 方式一:
 [【点击添加群】](https://mixin.one/codes/1484dbc5-44f4-4b39-b3e3-92f6de24cb4e)
 
-二维码需要扫描，进群点击公告即可
+二维码需要使用Mixin扫描，进群点击公告即可
 
 > 方式二：
 需要添加Luckey BTC机器人（ID: *7000101487*）才能点击签到免费领取BTC。
