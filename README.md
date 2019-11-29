@@ -71,21 +71,55 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 >   * 每日签到获取免费BTC
 
 我的mixinID：35086
+## Mixin题库
+> * 1/ Mixin 的 6 位数字密码忘记怎么办？
+密码不能忘记，一旦忘记资产永久丢失
 
-《得到app》外链(穆长春·中国人民银行数字货币研究所所长)
-以下链接需要在微信内打开
-[01 为什么Libra有可能成为真正的支付工具](https://m.igetget.com/rush/course/index/xe3WMdD1ARZm4vrYagp6zyW2fl7SJJnMTObBRLklX5909pVjLzn8NGoEOb926yKB?from=singlemessage)
+> * 2/ 端到端加密有什么好处？
+聊天内容是加密的，只有聊天双方可以知道聊天内容，任何中间人包括 Mixin 项目方都不知道
 
-[02 Libra如何应对数字货币的币值稳定](https://m.igetget.com/rush/course/index/LqXmD8xyrBJMVke1aEPWVjJ5fXJF44nvCAlZqW43yVEbEQ4Ab2G0lYz3OvnNjd97)
+> * 3/ 签到活动的目的是什么
+让有效用户拥有 BTC 并使用世界上最好用的 BTC 钱包
 
-[03 Libra能成为强势货币吗]( https://m.igetget.com/rush/course/index/xZ5EdYj9eW0zNMlJVBPnnodrfN0IJJ2aF6EXbqGJ29VYVP4v2G1rXOAgR7Ka3Loy)
+> * 4/ 签到出现的任务为什么不是确定的？
+过滤无效用户，保障真实有效用户的权益
 
-[04 Libra能突破数字货币的通行风险吗](https://m.igetget.com/rush/course/index/1kqdK6Dbj0v8WmZoxVPyNXdgFrjiGG8NIqRZ1aLnJK3V3wBRLJ3N97Yl25eO4nAg)
+> * 5/ 普通人的 BTC 放在哪里最方便？
+放在 Mixin 钱包里已经是最安全最方便的了
 
-[05 DCEP:中国自己的数字货币](https://m.igetget.com/rush/course/index/4JLDzyNjZWeGYXa0v5Px80NoSLJHyyeKuaWkJ6Dxg0RLRP17rmd93lERV8kMxO6g)
+> * 6/ 哪些行为不是签到有效用户？
+每天坚持点一下签到领取 BTC
 
-[06 DCEP的设计和发行逻辑有何创新](https://m.igetget.com/rush/course/index/0bJ9m5rBVk6q2MzXd4wln9dEfVqCOOr6h1gWr2KGOEbJbQWov1aEOj7NxGgy3ZKn)
+> * 7/ 强制端到端加密的聊天工具是哪个？
+Mixin
 
-[结语｜互联网创业思维，不适合金融领域](https://m.igetget.com/rush/course/index/J8VKqm0b9ERnzNBaYvQYVNnDf8aHaa6ku2m7ea4ZBkqKqPx257G1ZyglX3oL6DAj)
+> * 8/ 下面哪个不是 Mixin 的核心功能？
+签到领取BTC
 
- 未完待续...
+> * 9/ Mixin 钱包是去中心化的吗？
+是的，Mixin 是去中心化钱包里普通用户使用最安全最方便的
+
+> * 10/ 签到中间出现各种任务的目的是什么？
+过滤无效用户，保障真实有效用户的权益
+
+> * 11/ 如果不是有效用户，下面哪个说法是正确的？
+当系统检查到不是有效用户时会中断甚至永久终止相关用户签到
+
+> * 12/ 项目方能不能冻结我的 Mixin 钱包？
+Mixin 钱包是私人财产，技术上任何人都不能冻结
+
+> * 13/ Mixin 的 6 位数字密码忘记怎么办？
+密码不能忘记，一旦忘记资产永久丢失
+
+> * 14/ 我签到的 BTC 项目方可以收回吗？
+不可以收回，因为签到的 BTC 已经在自己钱包里，技术上只有我自己可以转移
+
+> * 15/ 签到领取的 BTC 在哪里？
+自己的私人钱包里
+
+> * 16/ 关于 Mixin 钱包账户的描述哪个是正确的？
+Mixin 钱包的电话和 6 位密码是唯一证明，只有同时拿到了电话和 6 位密码才能转移资产
+
+> * 17/ 签到领取的 BTC 为什么有时候到账很慢？
+因为签到的人非常多，机器人需要按照顺序转账，可能需要几个小时
+
